@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="148b1b84-7fad-4d50-bb3a-42fab5283c7a" name="dev-rust">
+        <fileTransfer accessType="SFTP" host="127.0.0.1" port="22" sshConfigId="3d2e4c67-ec22-4fa3-be8a-8dd43ee189ac" sshConfig="root@127.0.0.1:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
